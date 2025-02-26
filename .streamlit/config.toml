@@ -1,7 +1,6 @@
 [server]
 enableCORS = true
 enableXsrfProtection = false
-allowIframeEmbedding = true
 
 [browser]
 serverPort = 8501
