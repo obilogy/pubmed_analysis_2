@@ -1,0 +1,17 @@
+# Data files
+data/
+
+# Log files
+logs/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env
+
+# System files
+.DS_Store

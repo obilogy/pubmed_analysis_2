@@ -1,0 +1,8 @@
+streamlit
+biopython
+plotly
+pandas
+pycountry
+wordcloud
+matplotlib
+schedule
